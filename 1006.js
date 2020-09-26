@@ -1,5 +1,3 @@
-const { parse } = require('path');
-
 var input = require('fs').readFileSync('assets/1006', 'utf8');
 var lines = input.split('\n');
 
